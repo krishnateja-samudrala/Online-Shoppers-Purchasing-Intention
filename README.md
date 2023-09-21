@@ -1,4 +1,3 @@
-# Online-Shoppers-Purchasing-Intention
 # Predicting Online Shoppers' Purchasing Intention
 ### Business Problem
 The goal of this project is to predict whether a visitor to an e-commerce website will make a purchase or not. This helps online retailers optimize their marketing strategy and increase revenue.
